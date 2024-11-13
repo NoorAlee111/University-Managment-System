@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\uams\uams\obj\Debug\uams.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\uams\uams\obj\Debug\uams.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\uams\uams\bin\Debug\uams.exe.config
+C:\Users\DELL\source\repos\uams\uams\bin\Debug\uams.exe
+C:\Users\DELL\source\repos\uams\uams\bin\Debug\uams.pdb
+C:\Users\DELL\source\repos\uams\uams\obj\Debug\uams.exe
+C:\Users\DELL\source\repos\uams\uams\obj\Debug\uams.pdb
